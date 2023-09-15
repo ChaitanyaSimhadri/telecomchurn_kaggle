@@ -1,4 +1,4 @@
-# telecomchurn_kaggle
+# Telecomchurn_kaggle Competetion
 Telecom churn project for Kaggle competition
 
 This Project is submitted to IIIT bangalore for a kaggle competetion with in the group and stood top in the competetion with scaore of 0.237.
